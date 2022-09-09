@@ -9,13 +9,27 @@
 ***
 I am 21 years old and work as a security guard. This type of activity does not suit me and I decided to try myself in something new, hoping for the development of both a career and personal growth.
 * My strengths:
--  Quick learner
--  Full immersion in the essence of the problems
--  Diligence
--  Team playing
+   *  Quick learner
+  *  Full immersion in the essence of the problems
+  *  Diligence
+  *  Team playing
 # Skills
  ***
 * HTML
 * CSS
 * C#
 * JavaScript 
+# Code Examples
+***
+```
+function multiply(a, b){
+  return a * b ;
+}
+```
+# Education
+***
+* Molodechno - Torgovui Economicheskiy College
+# Languages
+***
+* Russian - native speaker.
+* English - A1 (A2 in process…)
