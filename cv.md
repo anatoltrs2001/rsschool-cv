@@ -32,11 +32,11 @@ function multiply(a, b){
 }
 ```
 
-## Education
+### Education
 
 * Molodechno - Torgovui Economicheskiy College
 
-## Languages
+### Languages
 
 * Russian - native speaker.
 * English - A1 (A2 in process…)
